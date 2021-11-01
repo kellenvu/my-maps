@@ -17,14 +17,13 @@ The following **required** functionality is completed:
 The following **extensions** are implemented:
 
 * [X] I added more info about the maps on the menu screen.
+* [X] I made some small aesthetic changes to the menu screen.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='https://i.imgur.com/nOWeRzV.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
