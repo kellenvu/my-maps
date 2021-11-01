@@ -1,6 +1,6 @@
 # My Maps 
 
-## *Your name here*
+## *Kellen Vu*
 
 **My Maps** displays a list of maps, each of which show user-defined markers with a title, description, and location. The user can also create a new map. 
 
