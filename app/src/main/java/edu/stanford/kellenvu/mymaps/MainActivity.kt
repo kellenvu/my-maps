@@ -39,7 +39,7 @@ class MainActivity : AppCompatActivity() {
 
         // Generate user maps
         userMaps = deserializeUserMaps(this).toMutableList()
-        if(userMaps.isEmpty()) {
+        if(userMaps.isEmpty() or true) {
             userMaps = generateSampleData().toMutableList()
         }
         // Find views
