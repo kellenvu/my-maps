@@ -21,7 +21,7 @@ The following **extensions** are implemented:
 
 ## Demo
 
-<img src='blob:https://imgur.com/9bd15a62-e7df-45b2-884f-7b83efa373e6' width='400' alt='Demo'/>
+<img src='https://i.imgur.com/0XSwDp4.png' width='400' alt='Demo'/>
 
 ## Notes
 
