@@ -19,11 +19,9 @@ The following **extensions** are implemented:
 * [X] I added more info about the maps on the menu screen.
 * [X] I made some small aesthetic changes to the menu screen.
 
-## Video Walkthrough
+## Demo
 
-Here's a walkthrough of implemented user stories:
-
-<img src='https://s9.gifyu.com/images/ezgif-6-cca6fa31865e.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='blob:https://imgur.com/9bd15a62-e7df-45b2-884f-7b83efa373e6' width='400' alt='Demo'/>
 
 ## Notes
 
